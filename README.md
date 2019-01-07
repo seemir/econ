@@ -1,5 +1,6 @@
 # econ
 
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 My final master thesis submitted for the degree of Master of Science in Economics at the School of Economics and Business, Norwegian University of Life Sciences (NMBU).
